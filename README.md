@@ -31,7 +31,7 @@ For Audible Alert Notification and for the program to work properly, there must 
 
 
 ----------------------------------
-https://fatihonder.org.tr/python-ile-mors-translator-gui/
+https://fatihonder.org.tr/python-ile-deprem-veri-okuyucu/
 
 # Installation
 Install cleaning
