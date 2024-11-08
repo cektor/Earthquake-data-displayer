@@ -26,6 +26,9 @@ sudo apt install python3 -y  && sudo apt install pip3 install feedparser -y && s
 
 
 ```
+# NOTE
+For Audible Alert Notification and for the program to work properly, there must be alert_sound.wav in the directory where the earthquake.py file is located.
+
 
 ----------------------------------
 https://fatihonder.org.tr/python-ile-mors-translator-gui/
