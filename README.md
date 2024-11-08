@@ -37,4 +37,4 @@ python3 deprem.py
 
 # Screenshot
 
-![Demo](deprem.png) 
+![Demo](depremv2.png) 
