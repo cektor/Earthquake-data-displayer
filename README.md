@@ -7,7 +7,14 @@ Github Package Must Be Installed On Your Device.
 sudo apt install git -y
 ```
 
-Python3 Package Must Be Installed On Your Device.
+
+Python3 Package Must Be Installed On Your Device. and Required Packages
+
+Required Packages
+pip install feedparser
+pip install pygame
+
+
 ```bash
 sudo apt install python3 -y  && sudo apt install pip3 install feedparser -y && sudo apt install pip install pygame -y
 
