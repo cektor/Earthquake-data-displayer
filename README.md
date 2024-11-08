@@ -22,7 +22,8 @@ pip install pygame
 
 
 ```bash
-sudo apt install python3 -y  && sudo apt install pip3 install feedparser -y && sudo apt install pip install pygame -y
+sudo apt install python3 -y  && sudo apt install pip3 install feedparser -y && sudo apt install python3-pygame
+
 
 
 ```
