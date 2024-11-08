@@ -10,9 +10,12 @@ sudo apt install git -y
 
 Python3 Package Must Be Installed On Your Device. and Required Packages
 
-Required Packages
+<b>Required Packages</b>
+</br>
 pip install feedparser
+</br>
 pip install pygame
+</br>
 
 
 ```bash
