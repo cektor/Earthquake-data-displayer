@@ -35,7 +35,7 @@ For Audible Alert Notification and for the program to work properly, there must 
 https://fatihonder.org.tr/python-ile-deprem-veri-okuyucu/
 
 # Installation
-Install cleaning
+Install Earthquake-data-displayer
 ```bash
 sudo git clone https://github.com/cektor/Earthquake-data-displayer.git
 ```
