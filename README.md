@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # Earthquake-data-displayer
 Receives and Lists Current Earthquake Data from Kandilli Observatory as RSS. It also notifies current earthquakes with an audio alert. GUI application written in Python language can work cross-platform.
 
